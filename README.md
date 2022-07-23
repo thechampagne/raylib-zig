@@ -13,6 +13,7 @@ Examples using raylib core platform functionality like window creation, inputs, 
 | 05 | [core_input_gamepad](05_core_input_gamepad/src/main.zig) | <img src="https://github.com/raysan5/raylib/raw/master/examples/core/core_input_gamepad.png" alt="core_input_gamepad" width="80"> |
 | 06 | [core_input_multitouch](06_core_input_multitouch/src/main.zig) | <img src="https://github.com/raysan5/raylib/raw/master/examples/core/core_input_multitouch.png" alt="core_input_multitouch" width="80"> |
 | 07 | [core_input_gestures](07_core_input_gestures/src/main.zig) | <img src="https://github.com/raysan5/raylib/raw/master/examples/core/core_input_gestures.png" alt="core_input_gestures" width="80"> |
+| 08 | [core_2d_camera](08_core_2d_camera/src/main.zig) | <img src="https://github.com/raysan5/raylib/raw/master/examples/core/core_2d_camera.png" alt="core_2d_camera" width="80"> |
 
 ### License
 
