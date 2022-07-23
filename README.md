@@ -15,6 +15,7 @@ Examples using raylib core platform functionality like window creation, inputs, 
 | 07 | [core_input_gestures](07_core_input_gestures/src/main.zig) | <img src="https://github.com/raysan5/raylib/raw/master/examples/core/core_input_gestures.png" alt="core_input_gestures" width="80"> |
 | 08 | [core_2d_camera](08_core_2d_camera/src/main.zig) | <img src="https://github.com/raysan5/raylib/raw/master/examples/core/core_2d_camera.png" alt="core_2d_camera" width="80"> |
 | 09 | [core_2d_camera_mouse_zoom](09_core_2d_camera_mouse_zoom/src/main.zig) | <img src="https://github.com/raysan5/raylib/raw/master/examples/core/core_2d_camera_mouse_zoom.png" alt="core_2d_camera_mouse_zoom" width="80"> |
+| 10 | [core_2d_camera_platformer](10_core_2d_camera_platformer/src/main.zig) | <img src="https://github.com/raysan5/raylib/raw/master/examples/core/core_2d_camera_platformer.png" alt="core_2d_camera_platformer" width="80"> |
 
 ### License
 
