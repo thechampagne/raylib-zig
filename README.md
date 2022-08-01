@@ -20,6 +20,7 @@ Examples using raylib core platform functionality like window creation, inputs, 
 | 12 | [core_3d_camera_free](12_core_3d_camera_free/src/main.zig) | <img src="https://github.com/raysan5/raylib/raw/master/examples/core/core_3d_camera_free.png" alt="core_3d_camera_free" width="80"> |
 | 13 | [core_3d_camera_first_person](13_core_3d_camera_first_person/src/main.zig) | <img src="https://github.com/raysan5/raylib/raw/master/examples/core/core_3d_camera_first_person.png" alt="core_3d_camera_first_person" width="80"> |
 | 14 | [core_3d_picking](14_core_3d_picking/src/main.zig) | <img src="https://github.com/raysan5/raylib/raw/master/examples/core/core_3d_picking.png" alt="core_3d_picking" width="80"> |
+| 15 | [core_world_screen](15_core_world_screen/src/main.zig) | <img src="https://github.com/raysan5/raylib/raw/master/examples/core/core_world_screen.png" alt="core_world_screen" width="80"> |
 
 ### License
 
